@@ -14,10 +14,10 @@ Elle est distribuée sous licence Creative Commoncs CC-BY-SA 3.0. Consulter les 
 
 ## Ressources
 
-[Cours de Yann LeCun au Collège de France](https://www.college-de-france.fr/site/yann-lecun/)
-[MOOC "Réseaux de neurones" par Geoffrey Hinton](https://fr.coursera.org/learn/neural-networks)
-[*Deep Learning* par Ian Goodfellow](http://www.deeplearningbook.org/)
-[Caffe](http://caffe.berkeleyvision.org/)
-[Keras](https://keras.io/)
-(https://github.com/ChristosChristofidis/awesome-deep-learning)
-(https://github.com/kjw0612/awesome-deep-vision)
+* [Cours de Yann LeCun au Collège de France](https://www.college-de-france.fr/site/yann-lecun/)
+* [MOOC "Réseaux de neurones" par Geoffrey Hinton](https://fr.coursera.org/learn/neural-networks)
+* ["Deep Learning" par Ian Goodfellow](http://www.deeplearningbook.org/)
+* [Caffe](http://caffe.berkeleyvision.org/)
+* [Keras](https://keras.io/)
+* [https://github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [https://github.com/kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
